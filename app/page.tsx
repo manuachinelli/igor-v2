@@ -1,4 +1,4 @@
-import LandingLoader from '@/components/LandingLoader'
+import LandingLoader from '../components/LandingLoader'
 
 export default function HomePage() {
   return <LandingLoader />
